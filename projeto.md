@@ -44,7 +44,7 @@
 | ITEM | DESCRIÇÃO|
 |:---|:---|
 | NOME DO PROJETO | Euforia Make-up |
-| GERENTE DO PROJETO | Nicoly |
+| GERENTE DO PROJETO | Vitória |
 | PRINCIPAL OBJETIVO |  Objetivo do nosso projeto e ajudar você para elevar sua auto-estima com nossos produtos. A empresa make-up é voltada para vendas de maquiagens|
 | BENEFÍCIOS ESPERADOS |* Vendas de maquiagens ;<br/>* ajudar o cliente a ter uma relação melhor com o seu rosto;<br/>* Ter mais criações no mercado de trabalho;<br/>* servir de inspiração pra pequenas empresas;<br/>* Ter um preço acessível|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
