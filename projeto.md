@@ -7,7 +7,6 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-
 |Uédina Clarice|Gerente de Projeto| uedinaclaricebarros@gmail.com|
 |Ana Carolina Leopoldo|Gerente de Projeto|ac4686993@gmail.com|
 |Vitória Gonçalves da Silva|Gerente do projeto|Vit0r4a33@gmail.com|
