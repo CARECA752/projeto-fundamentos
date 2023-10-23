@@ -303,7 +303,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
-# Diagrama de Sequências
+# Diagrama de Sequências![Captura de tela 2023-10-23 161615](https://github.com/CARECA752/projeto-fundamentos/assets/127433140/0ebbe369-77a1-444c-a2e7-347179df8991)
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
