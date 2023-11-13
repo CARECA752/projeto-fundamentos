@@ -304,7 +304,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Sequências
-![Diagrama de sequencia - Vitória](https://github.com/CARECA752/projeto-fundamentos/assets/127433140/0ebbe369-77a1-444c-a2e7-347179df8991) 
+![controle de vendas](https://github.com/CARECA752/projeto-fundamentos/assets/127433140/22579fb4-29d4-4c5b-935d-26805bea0ad0)
 ![Diagrama de sequencia - Clary](![goxtxaaaa](https://github.com/CARECA752/projeto-fundamentos/assets/127433216/8e10a581-572c-45c1-9497-1c034a38ec0b)
 https:
 ![Diagrama de sequencia - Ana](https://github.com/CARECA752/projeto-fundamentos/assets/127433140/9cab80df-e0e3-4d3d-889f-e1acc58bbd17)
