@@ -316,6 +316,7 @@ https:
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
+![Captura de tela 2023-11-13 162758](https://github.com/CARECA752/projeto-fundamentos/assets/127433140/640835f5-f14a-4ef0-9b53-6b07e6957386)
 
 # REFERÊNCIAS
 
